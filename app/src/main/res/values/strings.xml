@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string name="title">Albums</string>
+    <string name="albumText">Album Name</string>
+    <string name="albumHint">Enter album name here</string>
+    <string name="create">Create</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="search">Search</string>
+    <string name="refresh">Refresh</string>
+    <string name="title_activity_show_album">Album</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="refreshAlbum">Refresh</string>
+    <string name="back">Back</string>
+    <string name="open">Open</string>
+    <string name="display">Display</string>
+    <string name="prev">Previous</string>
+    <string name="tagLabel">Add tag</string>
+    <string name="tagHint">Enter a tag value</string>
+    <string name="albumLabel">Select Album</string>
+    <string name="moveTo">Move to</string>
+
+    <string name="nameTag">Name Tag</string>
+    <string name="nameHint">Enter name here</string>
+    <string name="locationTag">Location Tag</string>
+    <string name="locationHint">Enter location here</string>
+    <string name="andOr">Enter and/or</string>
+    <string name="andOrHint">and/or</string>
+    <string name="title_activity_search">Search</string>
+    <string name="title_activity_display_photo">Display Photo</string>
+    <string name="save">Save</string>
+    <string name="image">Photo</string>
+
+</resources>
